@@ -14,16 +14,16 @@
   [Upgrade]
   Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
     Executing up to 8 processes, one per physical core
-    Requested 1.5 GB free memory per action, 2.37 GB available: limiting max parallel actions to 1
-  Building 7 actions with 1 process...
-  [1/7] Compile [x64] SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.cpp
-  [2/7] Resource Default.rc2
-  [3/7] Compile [x64] multiTemplate.cpp
-  [4/7] Compile [x64] MyClass.cpp
-  [5/7] Link [x64] UnrealEditor-multiTemplate.dll
-     Creating library D:\GrantGames\multiplayerTesting\unrealTakeOne\MultiplayerTemplate\multiTemplate\Intermediate\Build\Win64\x64\UnrealEditor\Development\multiTemplate\UnrealEditor-multiTemplate.suppressed.lib and object D:\GrantGames\multiplayerTesting\unrealTakeOne\MultiplayerTemplate\multiTemplate\Intermediate\Build\Win64\x64\UnrealEditor\Development\multiTemplate\UnrealEditor-multiTemplate.suppressed.exp
-  [6/7] Link [x64] UnrealEditor-multiTemplate.lib
+    Requested 1.5 GB free memory per action, 3.95 GB available: limiting max parallel actions to 2
+  Building 7 actions with 2 processes...
+  [1/7] Resource Default.rc2
+  [2/7] Compile [x64] SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.cpp
+  [3/7] Compile [x64] MyClass.cpp
+  [4/7] Compile [x64] multiTemplate.cpp
+  [5/7] Link [x64] UnrealEditor-multiTemplate.lib
      Creating library D:\GrantGames\multiplayerTesting\unrealTakeOne\MultiplayerTemplate\multiTemplate\Intermediate\Build\Win64\x64\UnrealEditor\Development\multiTemplate\UnrealEditor-multiTemplate.lib and object D:\GrantGames\multiplayerTesting\unrealTakeOne\MultiplayerTemplate\multiTemplate\Intermediate\Build\Win64\x64\UnrealEditor\Development\multiTemplate\UnrealEditor-multiTemplate.exp
+  [6/7] Link [x64] UnrealEditor-multiTemplate.dll
+     Creating library D:\GrantGames\multiplayerTesting\unrealTakeOne\MultiplayerTemplate\multiTemplate\Intermediate\Build\Win64\x64\UnrealEditor\Development\multiTemplate\UnrealEditor-multiTemplate.suppressed.lib and object D:\GrantGames\multiplayerTesting\unrealTakeOne\MultiplayerTemplate\multiTemplate\Intermediate\Build\Win64\x64\UnrealEditor\Development\multiTemplate\UnrealEditor-multiTemplate.suppressed.exp
   [7/7] WriteMetadata multiTemplateEditor.target
-  Total time in Parallel executor: 92.48 seconds
-  Total execution time: 98.17 seconds
+  Total time in Parallel executor: 82.90 seconds
+  Total execution time: 88.59 seconds

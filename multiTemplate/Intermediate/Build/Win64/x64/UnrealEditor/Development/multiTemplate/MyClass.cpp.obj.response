@@ -19,6 +19,11 @@ D:\GrantGames\multiplayerTesting\unrealTakeOne\MultiplayerTemplate\multiTemplate
 /I Runtime\Net
 /I Runtime\SignalProcessing\Public
 /I ThirdParty\Intel
+/I ..\Plugins\Online\OnlineSubsystemEOS\Intermediate\Build\Win64\UnrealEditor\Inc\OnlineSubsystemEOS\UHT
+/I ..\Plugins\Online\OnlineSubsystemEOS\Source\OnlineSubsystemEOS\Public
+/I ..\Plugins\Online\OnlineSubsystemEOS\Source
+/I ThirdParty
+/I D:\GrantGames\multiplayerTesting\unrealTakeOne\MultiplayerTemplate\multiTemplate\ThirdParty\SDK\Include
 /I D:\GrantGames\multiplayerTesting\unrealTakeOne\MultiplayerTemplate\multiTemplate\Source
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\UHT
 /I ..\Shaders\Shared
@@ -40,7 +45,6 @@ D:\GrantGames\multiplayerTesting\unrealTakeOne\MultiplayerTemplate\multiTemplate
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Slate\UHT
 /I Runtime\Slate\Public
 /I Runtime\ImageWrapper\Public
-/I ThirdParty
 /I Runtime\Messaging\Public
 /I Runtime\MessagingCommon\Public
 /I Runtime\RenderCore\Public
@@ -281,6 +285,7 @@ D:\GrantGames\multiplayerTesting\unrealTakeOne\MultiplayerTemplate\multiTemplate
 /I Developer\AnimationDataController\Public
 /external:W0
 /external:I ThirdParty\mimalloc\include
+/external:I ThirdParty\EOSSDK\SDK\Include
 /external:I ThirdParty\LibTiff\Source\Win64
 /external:I ThirdParty\LibTiff\Source
 /external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\INCLUDE"
