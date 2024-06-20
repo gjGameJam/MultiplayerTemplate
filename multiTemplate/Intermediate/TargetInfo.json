@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "multiTemplate",
+			"Path": "D:\\GrantGames\\multiplayerTesting\\unrealTakeOne\\MultiplayerTemplate\\multiTemplate\\Source\\multiTemplate.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "multiTemplateEditor",
+			"Path": "D:\\GrantGames\\multiplayerTesting\\unrealTakeOne\\MultiplayerTemplate\\multiTemplate\\Source\\multiTemplateEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

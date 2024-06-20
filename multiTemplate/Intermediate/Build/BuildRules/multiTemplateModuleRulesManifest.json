@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\GrantGames\\multiplayerTesting\\unrealTakeOne\\MultiplayerTemplate\\multiTemplate\\Source\\multiTemplate\\multiTemplate.Build.cs",
+		"D:\\GrantGames\\multiplayerTesting\\unrealTakeOne\\MultiplayerTemplate\\multiTemplate\\Source\\multiTemplate.Target.cs",
+		"D:\\GrantGames\\multiplayerTesting\\unrealTakeOne\\MultiplayerTemplate\\multiTemplate\\Source\\multiTemplateEditor.Target.cs"
+	],
+	"EngineVersion": "5.2.1"
+}

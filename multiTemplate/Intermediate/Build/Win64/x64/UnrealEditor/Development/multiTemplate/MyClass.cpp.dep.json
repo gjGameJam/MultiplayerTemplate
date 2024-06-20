@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\grantgames\\multiplayertesting\\unrealtakeone\\multiplayertemplate\\multitemplate\\source\\multitemplate\\myclass.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\grantgames\\multiplayertesting\\unrealtakeone\\multiplayertemplate\\multitemplate\\intermediate\\build\\win64\\x64\\multitemplateeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\grantgames\\multiplayertesting\\unrealtakeone\\multiplayertemplate\\multitemplate\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\multitemplate\\definitions.multitemplate.h",
+            "d:\\grantgames\\multiplayertesting\\unrealtakeone\\multiplayertemplate\\multitemplate\\source\\multitemplate\\myclass.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

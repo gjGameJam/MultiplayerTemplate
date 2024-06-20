@@ -1,0 +1,29 @@
+﻿  Using bundled DotNet SDK version: 6.0.302
+  Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" multiTemplateEditor Win64 Development -Project="D:\GrantGames\multiplayerTesting\unrealTakeOne\MultiplayerTemplate\multiTemplate\multiTemplate.uproject" -WaitMutex -FromMsBuild -Rebuild
+  Log file: C:\Users\bgern\AppData\Local\UnrealBuildTool\Log.txt
+  Cleaning multiTemplateEditor binaries...
+  Using 'git status' to determine working set for adaptive non-unity build (D:\GrantGames\multiplayerTesting\unrealTakeOne\MultiplayerTemplate).
+  Creating makefile for multiTemplateEditor (no existing makefile)
+  Building multiTemplateEditor...
+  Using Visual Studio 2022 14.39.33523 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  [Upgrade]
+  [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+  [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_0
+  [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_2;' in multiTemplateEditor.Target.cs.
+  [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+  [Upgrade]
+  Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+    Executing up to 8 processes, one per physical core
+    Requested 1.5 GB free memory per action, 2.37 GB available: limiting max parallel actions to 1
+  Building 7 actions with 1 process...
+  [1/7] Compile [x64] SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.cpp
+  [2/7] Resource Default.rc2
+  [3/7] Compile [x64] MyClass.cpp
+  [4/7] Compile [x64] multiTemplate.cpp
+  [5/7] Link [x64] UnrealEditor-multiTemplate.dll
+     Creating library D:\GrantGames\multiplayerTesting\unrealTakeOne\MultiplayerTemplate\multiTemplate\Intermediate\Build\Win64\x64\UnrealEditor\Development\multiTemplate\UnrealEditor-multiTemplate.suppressed.lib and object D:\GrantGames\multiplayerTesting\unrealTakeOne\MultiplayerTemplate\multiTemplate\Intermediate\Build\Win64\x64\UnrealEditor\Development\multiTemplate\UnrealEditor-multiTemplate.suppressed.exp
+  [6/7] Link [x64] UnrealEditor-multiTemplate.lib
+     Creating library D:\GrantGames\multiplayerTesting\unrealTakeOne\MultiplayerTemplate\multiTemplate\Intermediate\Build\Win64\x64\UnrealEditor\Development\multiTemplate\UnrealEditor-multiTemplate.lib and object D:\GrantGames\multiplayerTesting\unrealTakeOne\MultiplayerTemplate\multiTemplate\Intermediate\Build\Win64\x64\UnrealEditor\Development\multiTemplate\UnrealEditor-multiTemplate.exp
+  [7/7] WriteMetadata multiTemplateEditor.target
+  Total time in Parallel executor: 83.16 seconds
+  Total execution time: 128.17 seconds

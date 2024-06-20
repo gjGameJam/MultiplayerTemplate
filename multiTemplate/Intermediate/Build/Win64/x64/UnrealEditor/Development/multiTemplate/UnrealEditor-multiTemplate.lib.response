@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-multiTemplate.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\GrantGames\multiplayerTesting\unrealTakeOne\MultiplayerTemplate\multiTemplate\Intermediate\Build\Win64\x64\multiTemplateEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"D:\GrantGames\multiplayerTesting\unrealTakeOne\MultiplayerTemplate\multiTemplate\Intermediate\Build\Win64\x64\UnrealEditor\Development\multiTemplate\multiTemplate.cpp.obj"
+"D:\GrantGames\multiplayerTesting\unrealTakeOne\MultiplayerTemplate\multiTemplate\Intermediate\Build\Win64\x64\UnrealEditor\Development\multiTemplate\MyClass.cpp.obj"
+"D:\GrantGames\multiplayerTesting\unrealTakeOne\MultiplayerTemplate\multiTemplate\Intermediate\Build\Win64\x64\UnrealEditor\Development\multiTemplate\Default.rc2.res"
+/OUT:"D:\GrantGames\multiplayerTesting\unrealTakeOne\MultiplayerTemplate\multiTemplate\Intermediate\Build\Win64\x64\UnrealEditor\Development\multiTemplate\UnrealEditor-multiTemplate.lib"
