@@ -37,6 +37,7 @@
 "D:\GrantGames\multiplayerTesting\unrealTakeOne\MultiplayerTemplate\multiTemplate\Intermediate\Build\Win64\x64\UnrealEditor\Development\multiTemplate\multiTemplate.cpp.obj"
 "D:\GrantGames\multiplayerTesting\unrealTakeOne\MultiplayerTemplate\multiTemplate\Intermediate\Build\Win64\x64\UnrealEditor\Development\multiTemplate\MyClass.cpp.obj"
 "D:\GrantGames\multiplayerTesting\unrealTakeOne\MultiplayerTemplate\multiTemplate\Intermediate\Build\Win64\x64\UnrealEditor\Development\multiTemplate\Default.rc2.res"
+"..\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\OnlineSubsystem\UnrealEditor-OnlineSubsystem.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
